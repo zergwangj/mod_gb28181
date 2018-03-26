@@ -1,0 +1,6 @@
+<configuration name="gb28181.conf" description="GB28181 module">
+	<settings>
+		<!-- Server id -->
+		<param name="server-id" value="34010000002000000001"/>
+	</settings>
+</configuration>
